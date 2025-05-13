@@ -1,0 +1,206 @@
+[
+  {
+    "input": "Merhaba",
+    "response": "Merhaba! Size nasıl yardımcı olabilirim?"
+  },
+  {
+    "input": "Nasılsın?",
+    "response": "Ben bir yapay zeka chatbotuyum, duygularım olmasa da sizinle konuşmak güzel. Size nasıl yardımcı olabilirim?"
+  },
+  {
+    "input": "İyi günler",
+    "response": "İyi günler! Bugün size nasıl yardımcı olabilirim?"
+  },
+  {
+    "input": "Adın ne?",
+    "response": "Ben bir derin öğrenme tabanlı chatbotum. Bana istediğiniz ismi verebilirsiniz."
+  },
+  {
+    "input": "Kimsin sen?",
+    "response": "Ben derin öğrenme teknolojisi ile geliştirilmiş bir sohbet robotuyum. Size yardımcı olmak için buradayım."
+  },
+  {
+    "input": "Ne yapabilirsin?",
+    "response": "Sorularınızı yanıtlayabilir, sohbet edebilir ve çeşitli konularda bilgi verebilirim. Şimdilik basit bir yapım var."
+  },
+  {
+    "input": "Teşekkür ederim",
+    "response": "Rica ederim! Başka bir konuda yardıma ihtiyacınız olursa bana sorabilirsiniz."
+  },
+  {
+    "input": "Görüşürüz",
+    "response": "Görüşmek üzere! İyi günler dilerim."
+  },
+  {
+    "input": "Yardım et",
+    "response": "Size nasıl yardımcı olabilirim? Lütfen sormak istediğiniz soruyu belirtin."
+  },
+  {
+    "input": "Bugün hava nasıl?",
+    "response": "Üzgünüm, gerçek zamanlı hava durumu verilerine erişemiyorum. Hava durumunu öğrenmek için hava durumu uygulamalarını kullanabilirsiniz."
+  },
+  {
+    "input": "Derin öğrenme nedir?",
+    "response": "Derin öğrenme, yapay sinir ağları kullanarak verilerden öğrenme gerçekleştiren bir makine öğrenmesi alt dalıdır. Çok katmanlı sinir ağları kullanarak karmaşık problemleri çözebilir."
+  },
+  {
+    "input": "Yapay zeka nedir?",
+    "response": "Yapay zeka, insan zekasını gerektiren görevleri gerçekleştirebilen bilgisayar sistemlerinin geliştirilmesiyle ilgilenen bilim dalıdır."
+  },
+  {
+    "input": "Makine öğrenmesi ne demek?",
+    "response": "Makine öğrenmesi, bilgisayarların açıkça programlanmadan verilerden öğrenmesini sağlayan yapay zeka tekniklerini içeren bir bilim dalıdır."
+  },
+  {
+    "input": "Python nedir?",
+    "response": "Python, kolay okunabilir sözdizimi ve geniş kütüphaneleri ile popüler bir programlama dilidir. Veri bilimi, yapay zeka ve web geliştirme dahil birçok alanda kullanılır."
+  },
+  {
+    "input": "NumPy ne işe yarar?",
+    "response": "NumPy, Python için bilimsel hesaplama kütüphanesidir. Çok boyutlu diziler ve matematiksel fonksiyonlar sunar, bilimsel hesaplamalar için temel bir araçtır."
+  },
+  {
+    "input": "Sinir ağı nasıl çalışır?",
+    "response": "Sinir ağları, insan beyninden esinlenerek oluşturulmuş hesaplama modelleridir. Nöronlar arası bağlantılar ile veri işleme, örüntü tanıma ve tahminleme yapabilirler."
+  },
+  {
+    "input": "Chatbot nedir?",
+    "response": "Chatbot, insanlarla metin veya ses yoluyla iletişim kurabilen bir yazılım programıdır. Doğal dil işleme teknolojilerini kullanarak sorulara yanıt verebilir."
+  },
+  {
+    "input": "Doğal dil işleme nedir?",
+    "response": "Doğal dil işleme (NLP), bilgisayarların insan dilini anlama, yorumlama ve üretmesini sağlayan yapay zeka alanıdır."
+  },
+  {
+    "input": "Öğrenme hızı nedir?",
+    "response": "Öğrenme hızı, sinir ağı eğitiminde gradyan inişi sırasında parametrelerin ne kadar hızlı güncellendiğini belirleyen bir hiperparametredir."
+  },
+  {
+    "input": "Overfitting nedir?",
+    "response": "Overfitting (aşırı öğrenme), bir modelin eğitim verilerine çok iyi uyum sağlarken, yeni verilere genelleme yapamaması durumudur."
+  },
+  {
+    "input": "Underfitting nedir?",
+    "response": "Underfitting (yetersiz öğrenme), bir modelin hem eğitim verilerinde hem de yeni verilerde düşük performans göstermesidir. Model yeterince karmaşık değildir."
+  },
+  {
+    "input": "Aktivasyon fonksiyonu ne işe yarar?",
+    "response": "Aktivasyon fonksiyonları, sinir ağlarına doğrusal olmayan özellikler kazandırarak karmaşık problemleri çözebilmelerini sağlar."
+  },
+  {
+    "input": "ReLU nedir?",
+    "response": "ReLU (Rectified Linear Unit), sinir ağlarında yaygın kullanılan bir aktivasyon fonksiyonudur. f(x) = max(0, x) şeklinde tanımlanır."
+  },
+  {
+    "input": "Sigmoid fonksiyonu nedir?",
+    "response": "Sigmoid, çıktıları 0 ile 1 arasında sıkıştıran bir aktivasyon fonksiyonudur. f(x) = 1/(1+e^(-x)) şeklinde tanımlanır."
+  },
+  {
+    "input": "Tanh fonksiyonu nedir?",
+    "response": "Tanh (hiperbolik tanjant), çıktıları -1 ile 1 arasında sıkıştıran bir aktivasyon fonksiyonudur. Sigmoid'e benzer ancak sıfır merkezlidir."
+  },
+  {
+    "input": "Softmax nedir?",
+    "response": "Softmax, çıktı değerlerini olasılık dağılımına dönüştüren bir fonksiyondur. Sınıflandırma problemlerinde çıkış katmanında kullanılır."
+  },
+  {
+    "input": "Çapraz entropi nedir?",
+    "response": "Çapraz entropi, sınıflandırma problemlerinde yaygın kullanılan bir kayıp fonksiyonudur. Model tahminleri ile gerçek dağılım arasındaki farkı ölçer."
+  },
+  {
+    "input": "Gradyan inişi nedir?",
+    "response": "Gradyan inişi, sinir ağı parametrelerini kayıp fonksiyonunu minimize edecek şekilde güncelleyen bir optimizasyon algoritmasıdır."
+  },
+  {
+    "input": "Batch size ne demek?",
+    "response": "Batch size, her adımda modelin kaç örnek üzerinde eğitileceğini belirten hiperparametredir. Bellek kullanımı ve eğitim hızını etkiler."
+  },
+  {
+    "input": "Epoch nedir?",
+    "response": "Epoch, eğitim sırasında tüm veri setinin model tarafından bir kez işlenmesi anlamına gelir. Genellikle birden fazla epoch kullanılır."
+  },
+  {
+    "input": "Dropout nedir?",
+    "response": "Dropout, eğitim sırasında rastgele nöronları devre dışı bırakarak aşırı öğrenmeyi önleyen bir düzenlileştirme tekniğidir."
+  },
+  {
+    "input": "CNN nedir?",
+    "response": "CNN (Evrişimli Sinir Ağları), görüntü işleme ve bilgisayarlı görü için tasarlanmış özel bir sinir ağı mimarisidir."
+  },
+  {
+    "input": "RNN nedir?",
+    "response": "RNN (Tekrarlayan Sinir Ağları), ardışık verileri işlemek için tasarlanmış, iç durumunu koruyabilen bir sinir ağı türüdür."
+  },
+  {
+    "input": "LSTM nedir?",
+    "response": "LSTM (Uzun-Kısa Vadeli Bellek), uzun vadeli bağımlılıkları öğrenebilen özel bir RNN türüdür. Vanishing gradient sorununu çözer."
+  },
+  {
+    "input": "GRU nedir?",
+    "response": "GRU (Gated Recurrent Unit), LSTM'e benzer bir RNN türüdür. Daha az parametre içerir ve bazı durumlarda benzer performans gösterir."
+  },
+  {
+    "input": "Transformer nedir?",
+    "response": "Transformer, dikkat mekanizması kullanan ve RNN'lere alternatif olarak geliştirilen bir sinir ağı mimarisidir. NLP'de yaygın kullanılır."
+  },
+  {
+    "input": "Dikkat mekanizması nedir?",
+    "response": "Dikkat mekanizması, modelin girdinin farklı bölümlerine farklı ağırlıklar vererek odaklanmasını sağlayan bir tekniktir."
+  },
+  {
+    "input": "Encoder-Decoder nedir?",
+    "response": "Encoder-Decoder, girdiyi bir iç temsile kodlayan ve bu temsili çıktıya dönüştüren iki aşamalı bir sinir ağı mimarisidir."
+  },
+  {
+    "input": "Seq2Seq nedir?",
+    "response": "Seq2Seq (Sequence-to-Sequence), bir dizi girdiyi başka bir dizi çıktıya dönüştürmek için kullanılan encoder-decoder tabanlı bir modeldir."
+  },
+  {
+    "input": "Transfer öğrenimi nedir?",
+    "response": "Transfer öğrenimi, bir problem için eğitilmiş bir modelin öğrendiği bilgileri başka bir probleme aktarma tekniğidir."
+  },
+  {
+    "input": "Fine-tuning nedir?",
+    "response": "Fine-tuning, önceden eğitilmiş bir modeli yeni bir görev için küçük ayarlamalarla yeniden eğitme işlemidir."
+  },
+  {
+    "input": "Öznitelik çıkarma nedir?",
+    "response": "Öznitelik çıkarma, ham verilerden anlamlı özellikleri tanımlama ve çıkarma işlemidir. Makine öğrenmesinde önemli bir adımdır."
+  },
+  {
+    "input": "Sınıflandırma nedir?",
+    "response": "Sınıflandırma, verileri önceden tanımlanmış kategorilere atayan bir makine öğrenmesi görevidir."
+  },
+  {
+    "input": "Regresyon nedir?",
+    "response": "Regresyon, sürekli değerli bir çıktıyı tahmin etmeyi amaçlayan bir makine öğrenmesi görevidir."
+  },
+  {
+    "input": "Kümeleme nedir?",
+    "response": "Kümeleme, verileri benzerliklerine göre gruplandıran bir denetimsiz öğrenme tekniğidir."
+  },
+  {
+    "input": "Boyut indirgeme nedir?",
+    "response": "Boyut indirgeme, veri boyutunu azaltırken önemli bilgileri korumayı amaçlayan bir teknik sınıfıdır."
+  },
+  {
+    "input": "PCA nedir?",
+    "response": "PCA (Temel Bileşenler Analizi), veri boyutunu azaltmak için kullanılan bir doğrusal boyut indirgeme tekniğidir."
+  },
+  {
+    "input": "t-SNE nedir?",
+    "response": "t-SNE, yüksek boyutlu verileri görselleştirmek için kullanılan doğrusal olmayan bir boyut indirgeme tekniğidir."
+  },
+  {
+    "input": "K-means nedir?",
+    "response": "K-means, verileri k sayıda kümeye ayıran popüler bir kümeleme algoritmasıdır."
+  },
+  {
+    "input": "SVM nedir?",
+    "response": "SVM (Destek Vektör Makineleri), sınıfları ayıran optimal bir hiperdüzlem bulmaya çalışan bir sınıflandırma algoritmasıdır."
+  },
+  {
+    "input": "KNN nedir?",
+    "response": "KNN (K En Yakın Komşu), yeni verileri en yakın k komşusunun çoğunluk oyuna göre sınıflandıran basit bir algoritmadır."
+  }
+]
